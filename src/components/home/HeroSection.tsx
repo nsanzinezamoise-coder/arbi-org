@@ -131,7 +131,7 @@ const HeroSection = () => {
 
             <motion.p className="text-xl text-white/90 italic" variants={itemVariants}>
               "You will be called Repairer of Broken Walls, Restorer of Streets with Dwellings." 
-          <b>  Isaiah 58:18</b>
+          <b>  Isaiah 58:12</b>
             </motion.p>
 
             <motion.p
