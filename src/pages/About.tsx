@@ -7,7 +7,7 @@ import PartnersSection from "@/components/sections/PartnersSection";
 import ReachSection from "@/components/sections/ReachSection";
 import ScriptureSection from "@/components/sections/ScriptureSection";
 import StorySection from "@/components/sections/StorySection";
-import TeamSection from "@/components/sections/TeamSection";
+// import TeamSection from "@/components/sections/TeamSection";
 import TimelineSection from "@/components/sections/TimelineSection";
 import ValuesSection from "@/components/sections/ValuesSection";
 
@@ -21,7 +21,7 @@ const AboutUsPage = () => {
       <MissionVisionSection />
       <TimelineSection />
       {/* <ReachSection /> */}
-      <TeamSection />
+      {/* <TeamSection /> */}
       <ValuesSection />
       {/* <PartnersSection /> */}
       {/* <ScriptureSection /> */}
